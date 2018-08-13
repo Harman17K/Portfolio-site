@@ -1,0 +1,27 @@
+#yo{
+  color: blue;
+}
+/*When a ID is to be accesed it is accessed by "#" in the begining.*/
+.h1{
+  color: #2d3c49;
+  text-align: right;
+  position: absolute;
+  top:0;
+  right:0;
+}
+/*When a class is to be accesed it is accessed by "." in the begining.*/
+.h2{
+  color: red;
+  text-align: center;
+}
+.h3{
+  color: #2d3c49;
+}
+.hell{
+  text-align: left;
+}
+.row{
+  width:100%;
+  display:flex;
+  flex-wrap: wrap;
+}/*Wrap is use to make website compatible for different platforms*/
